@@ -1,15 +1,22 @@
-# app-dev
-My first repository
+# App-Dev
 
-## My Favorite Movies
+#### My Top 3 Favorite Movies/Series
 
-![alt text](https://cdn.thetealmango.com/wp-content/uploads/2021/09/inter.jpg)
-> Amazing Movie
-That is so funny! ⭐⭐⭐⭐⭐
+1. **Interstellar**
 
-![alt text](https://images.cinemaexpress.com/uploads/user/imagelibrary/2020/5/1/original/3_Idiots.PNG)
-> I watched this movie 10 times
+![Interstellar](https://c4.wallpaperflare.com/wallpaper/536/846/466/interstellar-movie-movies-wallpaper-preview.jpg)
 
-![alt text](https://streamcoimg-a.akamaihd.net/000/292/2519/2922519-Banner-L2-a6c423c6a126311372c8bef40011e72a.jpg)
-> Very good movie
+> I think **`Interstellar`** is the best movie I have watched. It is truly an amazing movie! 💯 
+
+2. **Spiderman**
+
+![Spiderman](https://c4.wallpaperflare.com/wallpaper/763/710/546/spiderman-no-way-home-spiderverse-superhero-movies-digital-hd-wallpaper-preview.jpg)
+
+> **`Spiderman`** is also my favorite movie! Everything about spiderman is just perfect 👌
+
+3. **Stranger Things**
+
+![Stranger Things](https://c4.wallpaperflare.com/wallpaper/260/579/821/stranger-things-netflix-hd-wallpaper-preview.jpg)
+
+> Who doesn't love **`Stranger Things`**? The special effects is just incredible. I really love this series 💕
 
