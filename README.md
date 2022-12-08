@@ -24,7 +24,7 @@
 
 ![The Walking Dead](https://c4.wallpaperflare.com/wallpaper/648/577/253/the-walking-dead-wallpaper-preview.jpg)
 
-> Fun fuct about me: I love watching horror movies/series! 👻 **`The Walking Dead`** is by far the most thrilling to watch 
+> Fun fuct about me: I love watching horror movies/series! 👻 **`The Walking Dead`** is by far the most thrilling to watch!
 
 5. **Soul**
 
